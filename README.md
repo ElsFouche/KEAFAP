@@ -9,3 +9,6 @@ Sean Gibson, Programmer
 Els Fouche, Lead Programmer
 Dylan Brown, 3D Modeler
 Jack Bradford, Producer
+
+Engine: Unreal Engine 5.6
+Platform: PC - itch.io
