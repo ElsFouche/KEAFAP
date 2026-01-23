@@ -1,6 +1,6 @@
 # ----=----= KEAFAP =----=----
 
-Project Title: Kill Everything In Sight As Fast As Possible
+### Project Title: Kill Everything In Sight As Fast As Possible
 
 ## Credits
 Team Human Extinction Committee
