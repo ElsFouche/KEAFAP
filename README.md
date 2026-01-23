@@ -1,4 +1,5 @@
-----=----=KEAFAP=----=----
+# ----=----= KEAFAP =----=----
+
 Project Title: Kill Everything In Sight As Fast As Possible
 
 ## Credits
