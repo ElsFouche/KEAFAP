@@ -1,0 +1,5 @@
+---,Health,Melee Damage,Melee Range,Move Speed,Projectile Damage,Fire Rate,Projectile Speed,EXP,Wave,Firing Range
+Light,50,20,80,1350,0,0,0,10,0,0
+Medium,100,25,80,900,25,3,3000,10,2,3000
+Heavy,300,35,350,450,10,10,3000,20,3,5000
+Boss,1000,50,350,450,25,10,50,100,5,5000
